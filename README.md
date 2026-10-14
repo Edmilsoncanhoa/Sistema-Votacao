@@ -58,12 +58,10 @@ zona;secao;cargo;numero
 - `output/erros.txt`
 
 ## Observações importantes
-
-1. O enunciado diz que o formato dos arquivos oficiais está nos arquivos disponibilizados no Moodle. Os arquivos incluídos aqui são **exemplos de formato**, pois esses arquivos oficiais não foram fornecidos junto com o PDF. Se o formato real for diferente, a leitura em `eleicao/eleicao.py` (`processar_arquivo`, `_ler_pessoa` e `_ler_voto`) precisa ser ajustada.
-2. A aplicação conta cada linha do arquivo de urnas como um voto. Se os arquivos oficiais representarem vários votos numa linha ou usarem outro layout, adapte o leitor.
-3. O descritor `CampoProtegido` impede alterações diretas de campos protegidos após a primeira atribuição. É uma implementação simples de controle de acesso para demonstrar o conceito.
-4. Em produção, seria importante validar também datas, título de eleitor, zona/seção e regras adicionais de duplicidade.
-5. Confirme com o professor os pacotes/módulos permitidos e as convenções de saída exigidas.
+1. A aplicação conta cada linha do arquivo de urnas como um voto. Se os arquivos oficiais representarem vários votos numa linha ou usarem outro layout, adapte o leitor.
+2. O descritor `CampoProtegido` impede alterações diretas de campos protegidos após a primeira atribuição. É uma implementação simples de controle de acesso para demonstrar o conceito.
+3. Em produção, seria importante validar também datas, título de eleitor, zona/seção e regras adicionais de duplicidade.
+4. Confirme com o professor os pacotes/módulos permitidos e as convenções de saída exigidas.
 
 ## Estrutura
 
