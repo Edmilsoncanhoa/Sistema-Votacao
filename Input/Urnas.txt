@@ -1,0 +1,11 @@
+# zona;secao;cargo;numero (vazio = branco; número desconhecido = nulo)
+1;10;prefeito;10
+1;10;prefeito;10
+1;10;prefeito;20
+1;10;prefeito;
+1;10;prefeito;99
+1;10;vereador;10010
+1;10;vereador;10010
+1;10;vereador;20020
+1;10;vereador;
+1;10;vereador;99999

@@ -1,0 +1,5 @@
+RELATÓRIO DE ERROS E EXCEÇÕES
+Nenhum erro registrado.
+Erros de validação de Partido: 0
+Erros de validação de Prefeito: 0
+Erros de validação de Vereador: 0

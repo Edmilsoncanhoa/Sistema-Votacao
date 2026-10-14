@@ -1,0 +1,9 @@
+# ELEITOR;nome;cpf;nascimento;titulo;zona;secao
+ELEITOR;Ana Silva;12345678901;1990-01-10;10001;1;10
+ELEITOR;Bruno Costa;12345678902;1988-05-12;10002;1;10
+# PREFEITO;nome;cpf;nascimento;titulo;zona;secao;numero;numero_partido;cpf_vice;plano
+PREFEITO;Carlos Lima;12345678903;1975-03-20;10003;1;10;10;10;12345678904;Melhorar saúde e educação
+PREFEITO;Daniel Souza;12345678905;1978-07-08;10004;1;10;20;20;12345678906;Investir em mobilidade
+# VEREADOR;nome;cpf;nascimento;titulo;zona;secao;numero;numero_partido;bairro;projeto
+VEREADOR;Eva Santos;12345678907;1995-09-14;10005;1;10;10010;10;Centro;Projeto de iluminação
+VEREADOR;Fábio Rocha;12345678908;1992-11-21;10006;1;10;20020;20;Partenon;Projeto de transporte

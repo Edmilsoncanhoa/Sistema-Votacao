@@ -1,0 +1,4 @@
+RELATÓRIO DE PARTIDOS
+Total de partidos: 2
+Partido de Exemplo (PVA, nº 10): 1 candidato(s) a prefeito; 1 a vereador
+Partido Modelo (PVB, nº 20): 1 candidato(s) a prefeito; 1 a vereador

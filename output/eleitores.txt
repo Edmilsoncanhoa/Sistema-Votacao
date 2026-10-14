@@ -1,0 +1,6 @@
+RELATÓRIO DE ELEITORES
+Total de eleitores (incluindo candidatos): 6
+Total de candidatos a prefeito: 2
+Total de candidatos a vereador: 2
+Zona 1:
+  Seção 10: 6 eleitor(es)

@@ -1,0 +1,3 @@
+# numero;sigla;nome;cnpj
+10;PVA;Partido de Exemplo;12345678000199
+20;PVB;Partido Modelo;98765432000188

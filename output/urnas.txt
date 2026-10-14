@@ -1,0 +1,4 @@
+RELATÓRIO DE URNAS
+Urna — zona 1, seção 10
+  Prefeito: válidos=3, brancos=1, nulos=1
+  Vereador: válidos=3, brancos=1, nulos=1
